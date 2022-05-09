@@ -1,0 +1,150 @@
+.realisation{
+    position: absolute;
+    width: 80vw;
+    height: 80vh;
+    top: 50%;
+    left: 50%;
+    border-radius: 5px;
+    background-color: rgba(145, 189, 144, 1);
+    
+    transform: translate(-50%,-50%);
+    z-index: 20;
+    display: none;
+    
+}
+.realisation p {
+    color: black;
+    
+}
+.realisation h2{
+    text-align: center;
+    color: black;
+}
+.show{
+    display: block;
+}
+.realisation .icon{
+    position: relative;
+    right: 0;
+    
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+
+}
+.realisation .icon svg{
+    width: 100%;
+}
+
+.realisation1{
+    position: absolute;
+    width: 75vw;
+    height: 65vh;
+    top: 50%;
+    left: 50%;
+    border-radius: 5px;
+    background-color: rgba(145, 189, 144, 1);
+    
+    transform: translate(-50%,-50%);
+    z-index: 15;
+    display: none;
+    
+}
+.realisation1 p {
+    color: black;
+    
+}
+.realisation1 h2{
+    text-align: center;
+    color: black;
+}
+.show1{
+    display: block;
+}
+.realisation1 .icon1{
+    position: relative;
+    right: 0;
+    
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+
+}
+.realisation1 .icon1 svg{
+    width: 100%;
+}
+
+.realisation2{
+    position: absolute;
+    width: 75vw;
+    height: 100vh;
+    top: 50%;
+    left: 50%;
+    border-radius: 5px;
+    background-color: rgba(145, 189, 144, 1);
+    
+    transform: translate(-50%,-50%);
+    z-index: 15;
+    display: none;
+    
+}
+.realisation2 p {
+    color: black;
+    
+}
+.realisation2 h2{
+    text-align: center;
+    color: black;
+}
+.show2{
+    display: block;
+}
+.realisation2 .icon2{
+    position: relative;
+    right: 0;
+    
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+
+}
+.realisation2 .icon2 svg{
+    width: 100%;
+}
+.realisation3{
+    position: absolute;
+    width: 60vw;
+    height: 60vh;
+    top: 50%;
+    left: 50%;
+    border-radius: 5px;
+    background-color: rgba(145, 189, 144, 1);
+    
+    transform: translate(-50%,-50%);
+    z-index: 15;
+    display: none;
+    
+}
+.realisation3 p {
+    color: black;
+    
+}
+.realisation3 h2{
+    text-align: center;
+    color: black;
+}
+.show3{
+    display: block;
+}
+.realisation3 .icon3{
+    position: relative;
+    right: 0;
+    
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+
+}
+.realisation3 .icon3 svg{
+    width: 100%;
+}
